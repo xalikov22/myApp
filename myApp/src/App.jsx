@@ -1,6 +1,6 @@
-import React from 'react'
+import Modul from './modul/modul'
 import Navbar from './assets/navbar/navbar'
-import Modul from './component/modul/modul'
+
 function App() {
 
 
@@ -9,8 +9,7 @@ function App() {
 <>
 <Navbar
 />
-<Modul
-/>
+<Modul/>
 </>
   
   )
